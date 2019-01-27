@@ -1,5 +1,5 @@
 # Chat-Application-With-Node
-Chat application with node js. Developed following Udemy course.
+Chat application with node js. Developed by following Udemy course.
 
 
 Tools used:
